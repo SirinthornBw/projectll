@@ -15,7 +15,7 @@ $(function(){
         var data = table.row( this ).data();
         var value=data.customerID;
         document.cookie=value;
-        window.location.href='cusdetail.html';
+        window.location.href='custdetail.html';
     } );
 });
 
