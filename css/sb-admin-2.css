@@ -10680,7 +10680,7 @@ a:focus {
 .bg-gradient-primary {
   background-color: #c4e6dd;
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #4e73df), to(#224abe));
-  background-image: linear-gradient(180deg, #b4b5f1 10%, #0028a1 100%);
+  background-image: linear-gradient(180deg, #0003c4 10%, #eceff8 100%);
   background-size: cover;
 }
 
